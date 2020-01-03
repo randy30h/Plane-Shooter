@@ -1,2 +1,2 @@
 # Plane-Shooter
- create game for test RockNanoGlobal
+ create game for recruitmen test of Rock Nano Global
